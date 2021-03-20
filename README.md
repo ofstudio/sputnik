@@ -1,2 +1,2 @@
 # sputnik
-Gemini publishing app
+The Sputnik App launches from here
